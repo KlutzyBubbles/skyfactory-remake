@@ -1,0 +1,189 @@
+ActuallyAdditions - Waiting - https://ellpeck.de/blog/future_actually_additions
+
+actuallycomputers - No Replacement
+
+angelRingToBauble - Not Needed?
+
+AppleCore - Not Needed?
+
+AppleShields - Replaced with spartan-shields
+
+autopackager - No Replacement
+
+baconators - 1.18 but not 1.16 .-.
+
+base - No replacement (library)
+
+BedBugs - Fixes bug that has been fixed
+
+BetterBuildersWands - Replaced with construction-wand
+
+BetterFps - Replaced with better-fps-render-distance
+
+BiomeTweaker - 1.18 but not 1.16 .-.
+
+BlockDispenser - No forge alternative (dispenser-configurator)
+
+Chameleon - No replacement (library)
+
+Charset - No replacement (currently at 1.12)
+
+ChestTransporter - Replaced with carry-on
+
+chickens - Replaced with morechickens
+
+Clipboard - Replaced with notes
+
+CodeChickenCore - No replacement (library)
+
+compatlayer - No replacement (compat)
+
+CTMLib - No replacement (library)
+
+CustomMainMenu - Replaced with packmenu
+
+dimensionalcake Replaced with telepastries
+
+DrawersBits - No replacement
+
+EnderCore - No replacement (not until 1.18)
+
+EnderIO - No replacement (not until 1.18)
+
+energyconverters - No replacement (is it needed?)
+
+EngineersWorkshop - No replacement
+
+etlunar - No replacement (currently at 1.12)
+
+exnihiloadscensio - Replaced with ex-nihilo-sequentia
+
+ExtraBitManipulation - No replacement (currently at 1.12)
+
+extrautils2-1.10.2-1.9.9.jar
+
+flatcoloredblocks-mc1.10-v4.4.jar
+
+foamfix-0.7.5.jar
+
+Forgelin-1.5.1.jar
+
+FTBLib-1.1x-3.6.5.jar
+
+FTBUtilities-1.1x-3.6.5.jar
+
+FullscreenWindowed-1.10.2-1.5.1.jar
+
+Funnels-1.10.2-1.1.2.jar
+
+Grue-1.9.4-1.3.5.jar
+
+Guide-API-1.10.2-2.0.3-46.jar
+
+Gyth-1.10.2-2.0.0.27.jar
+
+hatchery-1.10.2-0.3.22.jar
+
+Headcrumbs-2.0.3.jar
+
+hopperducts-mc1.9.4-1.4.8.1.jar
+
+hydrogel-0.9.jar
+
+InGameInfoXML-1.10.2-2.8.1.89-universal.jar
+
+IronBackpacks-1.10.2-2.2.33.jar
+
+ItsBecauseUHasNoGoodSpawn-1.0.5.jar
+
+itsrainingfood-1.10.2-0.1.0.jar
+
+literalascension-1.10.2-1.0.2.2.jar
+
+llibrary-1.7.7-1.10.2.jar
+
+LootBags-1.10.2-2.5.0.jar
+
+LunatriusCore-1.10.2-1.1.2.38-universal.jar
+
+MCMultiPart-1.4.0-universal.jar
+
+Mercurius-1.10.2-1.0.6.jar
+
+missing_pieces-1.10.2-4.3.0.jar
+
+MoarSigns-1.10.2-4.2.3.9.jar
+
+ModTweaker2-2.0.13.jar
+
+MoreChickens-1.10.2-1.1.6.jar
+
+MoreShearables1.2.1-1.10.2.jar
+
+moreshears-1.10.2-1.0.5-release.jar
+
+mpbasic-1.10.2-1.1.5.jar
+
+mputils-1.10.2-1.2.9.jar
+
+MTLib-1.0.3.jar
+
+natura-1.10.2-4.1.0.80.jar
+
+NotEnoughItems-1.10.2-2.1.3.220-universal.jar
+
+OpenComputers-MC1.10.2-1.7.5.245.jar
+
+Pam's HarvestCraft 1.9.4-1.10.2h.jar
+
+RandomThings-MC1.10.2-3.7.7.1.jar
+
+RebornCore-1.10.2-2.13.6.142-universal.jar
+
+RebornStorage-1.10.2-1.0.3.30.jar
+
+redstonepaste-mc1.9.4-1.7.4.jar
+
+ResourceLoader-MC1.9.4-1.5.1.jar
+
+roots-0.208.jar
+
+scanner-1.5.2.jar
+
+ShadowMC-1.10.2-3.6.1.jar
+
+SimpleAchievements-MC1.9.4-1.2.2-28.jar
+
+simplebarrels-1.26e.jar
+
+simplelabels-1-10.2-0.0.3.jar
+
+Snad-1.10.2-1.6.09.20a.jar
+
+SonarCore-1.10.2-3.3.0.jar
+
+StevesCarts-1.10.2-2.2.0.86.jar
+
+SuperCircuitMaker-1.0.4.jar
+
+The Beneath-1.10.2-1.2.0.jar
+
+TinkerToolLeveling-1.10.2-1.0.1.jar
+
+tinyprogressions-1.10.2-1.1.0.jar
+
+TS2K16-1.0.3.jar
+
+Twitchcrumbs_1.10.2-2.0.4.jar
+
+UniDict-1.10.2-2.9b.jar
+
+voidcup-1.10.2-0.0.1.jar
+
+WanionLib-1.10.2-1.3.jar
+
+witherCrumbs-1.10.2-0.9.jar
+
+xprings-1.10-1.3.0.jar
+
+YUNoMakeGoodMap-1.10.2-6.1.0.26.jar

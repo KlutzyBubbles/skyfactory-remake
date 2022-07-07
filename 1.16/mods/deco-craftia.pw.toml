@@ -1,0 +1,13 @@
+name = "Deco Craftia!"
+filename = "Decocraftia 1.0.4 (1.16.5).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33854043e2e41630140d57ad02bbca341854fbc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3413526
+project-id = 511436
