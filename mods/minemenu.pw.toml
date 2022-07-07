@@ -1,0 +1,13 @@
+name = "MineMenu"
+filename = "MineMenu-1.18-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f45dc40c6327e43482ae5ec111644ce3e702917f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3544634
+project-id = 222378

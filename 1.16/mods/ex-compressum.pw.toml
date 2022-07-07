@@ -1,0 +1,13 @@
+name = "Ex Compressum"
+filename = "ExCompressum_1.16.5-4.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4af0c9b86cf906f9a85b00d9d7a8e07784e8215"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3542006
+project-id = 241967

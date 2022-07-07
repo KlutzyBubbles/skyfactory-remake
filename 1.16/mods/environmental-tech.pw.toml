@@ -1,0 +1,13 @@
+name = "Environmental Tech"
+filename = "envirotech-1.16.5-3.0.9.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a40dc469de05333e3fe8d3e6e9e6508f288a6ec1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3435566
+project-id = 245453

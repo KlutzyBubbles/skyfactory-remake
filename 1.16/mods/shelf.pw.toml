@@ -1,0 +1,13 @@
+name = "Shelf"
+filename = "shelf-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb832be110378d28e31add70d088ccd8d22a94f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3216893
+project-id = 404354

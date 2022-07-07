@@ -1,0 +1,13 @@
+name = "Simple Corn"
+filename = "SimpleCorn-1.16.5-2.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d099d8f0f1ceb4c33c9ad5b16cd09e82a9120e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3330180
+project-id = 246761

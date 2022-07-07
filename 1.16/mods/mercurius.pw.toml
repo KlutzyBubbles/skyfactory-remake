@@ -1,0 +1,13 @@
+name = "Mercurius"
+filename = "Mercurius-1.10.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7aa1c54767f878070adfe09633ddec7c448751a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2438833
+project-id = 242838

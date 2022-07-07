@@ -1,0 +1,6 @@
+name = "Environmental Tech"
+filename = "envirotech-1.16.5-3.0.9.4.jar"
+side = "client"
+
+[download]
+url = "https://github.com/KlutzyBubbles/skyfactory-remake/blob/main/mods/envirotech-1.16.5-3.0.9.4.jar?raw=true"

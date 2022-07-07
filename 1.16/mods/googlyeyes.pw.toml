@@ -1,0 +1,13 @@
+name = "GooglyEyes "
+filename = "GooglyEyes-1.16.5-10.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbc1fefc3bb0686331107b91db7a869fb09146b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3323410
+project-id = 252188

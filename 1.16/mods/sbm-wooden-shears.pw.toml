@@ -1,0 +1,13 @@
+name = "[SBM] Wooden Shears"
+filename = "SBM-WoodenShears-1.16.5-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92846a2bff2467969506dfca2716906ecb7c503a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3251422
+project-id = 250880

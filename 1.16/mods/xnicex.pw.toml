@@ -1,0 +1,13 @@
+name = "xNICEx"
+filename = "nice-1.16-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30693666844e5a12e9e64018705a52714f1e3816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3722141
+project-id = 255038

@@ -1,0 +1,13 @@
+name = "Packing Tape"
+filename = "PackingTape-1.16.5-0.10.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa9cc1eea8fc096b6056a7a9e35792e75da2af01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3397691
+project-id = 238659

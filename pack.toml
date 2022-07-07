@@ -1,4 +1,4 @@
-name = "Test Pack"
+name = "Skyfactory Remake"
 author = "KlutzyBubbles"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa"
+hash = "d443dac891ed96416e3742fc2da62013b009e3277c8af55cab642aac5790d393"
 
 [versions]
-fabric = "0.14.8"
-minecraft = "1.16"
+forge = "38.0.0"
+minecraft = "1.18"
 
 [options]
-acceptable-game-versions = ["1.16", "1.16.1", "1.16.2", "1.16.3", "1.16.4"]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]

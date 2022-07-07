@@ -1,0 +1,13 @@
+name = "Better Than Bunnies"
+filename = "BetterThanBunnies-1.16.3-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58640158f2aedbb0547d37568c0ccca66fd49944"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3062114
+project-id = 241015

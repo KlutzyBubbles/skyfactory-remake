@@ -1,0 +1,13 @@
+name = "Solar Energy"
+filename = "solarenergy-1.18.1-0.4.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6356f0856966f95190763208b2e352eb643be7da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3569095
+project-id = 381462
