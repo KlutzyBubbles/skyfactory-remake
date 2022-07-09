@@ -1,0 +1,13 @@
+name = "Cursed Earth"
+filename = "cursedearth-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62357f2776a6a30aa7a1eb32678e174b809a7be2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3306376
+project-id = 336919

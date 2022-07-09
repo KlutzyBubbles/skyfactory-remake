@@ -1,0 +1,13 @@
+name = "More Red"
+filename = "morered-1.16.5-2.1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a805e848df9210b9237e1917fa0b90f40e3a4485"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3338192
+project-id = 387638

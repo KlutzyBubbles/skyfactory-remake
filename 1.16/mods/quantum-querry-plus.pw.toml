@@ -1,0 +1,13 @@
+name = "Quantum Quarry Plus"
+filename = "quantum_quarry_plus-1.10.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d06b810fe7bdf39d59614b31f72b162c78ee355"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3461139
+project-id = 400954

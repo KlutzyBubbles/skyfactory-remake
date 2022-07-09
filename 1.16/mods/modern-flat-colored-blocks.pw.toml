@@ -1,0 +1,13 @@
+name = "Modern Flat Colored Blocks"
+filename = "FCB-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4ff67e427af35006781a2fcec076cc06198a319"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3152520
+project-id = 432082

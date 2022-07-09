@@ -1,0 +1,13 @@
+name = "Shear-A-Cow"
+filename = "Shear-A-Cow Forge 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8d472f0806fb085ec5d13640069d6b81633b555"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856080
+project-id = 639057

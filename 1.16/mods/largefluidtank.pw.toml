@@ -1,0 +1,13 @@
+name = "Large Fluid Tank"
+filename = "LargeFluidTank-16.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97a3b1642a80210de12169ee9f30da7dcd08dc2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838627
+project-id = 291006

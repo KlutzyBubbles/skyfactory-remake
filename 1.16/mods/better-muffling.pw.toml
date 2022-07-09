@@ -1,0 +1,13 @@
+name = "Better Muffling"
+filename = "Better Muffling-1.16.3-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64a41daff12a30d3bb37c32df7f090ff7b23b98d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3224380
+project-id = 284397

@@ -1,0 +1,13 @@
+name = "Spike Traps"
+filename = "spiketraps-3.0-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f81566f48cb9b1e1a9086f691726cdc216ba2606"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3284382
+project-id = 334453

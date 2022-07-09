@@ -1,0 +1,13 @@
+name = "Better Shears 2"
+filename = "bettershears2-1.16.5-2.1.0_release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47c264b2052e890f904fc55ddf22fbb1850ec210"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3652014
+project-id = 305563

@@ -1,0 +1,13 @@
+name = "CB: Compressed Blocks (Forge + Fabric)"
+filename = "[1.16]compressedblocks-1.0.0.20220123.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "910382d858ebef69d5b43d1274aa0559d6b8cb29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3620776
+project-id = 361354

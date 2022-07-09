@@ -1,0 +1,13 @@
+name = "Ducts"
+filename = "ducts-forge-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "093b091a2a04ff74211cdc56885cc00497e06e00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3571121
+project-id = 400219

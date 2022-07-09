@@ -1,0 +1,13 @@
+name = "Better Ladders"
+filename = "betlad-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6bc75c47375f6fc12ba93fea9a117e80b3c10e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3357332
+project-id = 493236

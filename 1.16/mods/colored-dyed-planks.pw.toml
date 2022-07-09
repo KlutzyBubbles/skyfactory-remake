@@ -1,0 +1,13 @@
+name = "Colored (dyed) Planks!"
+filename = "coloredplanks.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45248af038f5def27332ecc46807c2257231bbf2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3281777
+project-id = 473682

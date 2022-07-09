@@ -1,0 +1,13 @@
+name = "Deep Dark Dimension"
+filename = "ddd-1.16-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17a819a9cab70aa82491d1e575c06c7b7bc4c701"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3338038
+project-id = 482717

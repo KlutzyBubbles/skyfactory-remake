@@ -1,0 +1,13 @@
+name = "Void Bucket"
+filename = "VoidBucket-Forge-1.16-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "462255437"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3158783
+project-id = 432264

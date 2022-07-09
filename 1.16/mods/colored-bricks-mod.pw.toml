@@ -1,0 +1,13 @@
+name = "Colored Bricks Mod"
+filename = "coloredbricks-4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b559d52528fb874e4e78eddd1e3f4c46dd3ebc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3333903
+project-id = 442725

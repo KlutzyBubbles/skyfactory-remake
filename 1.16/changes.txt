@@ -60,130 +60,166 @@ exnihiloadscensio - Replaced with ex-nihilo-sequentia
 
 ExtraBitManipulation - No replacement (currently at 1.12)
 
-extrautils2-1.10.2-1.9.9.jar
+extrautils2 - Replaced with a bunch
 
-flatcoloredblocks-mc1.10-v4.4.jar
+angel-block
+glassential
+dark-utilities
+colored-bricks-mod
+colored-dyed-planks
+cb-compressed-blocks
+cursed-earth
+largefluidtank
+ffs-fancy-fluid-storage
+simple-generators
+advanced-generators
+ender-crop
+quantum-querry-plus
+trash-cans
+refined-pipes
+mekanism
+applied-energistics-2
+flux-networks
+mob-grinding-utils
+storage-cabinet
+torchmaster
+travelers-backpack
+deep-dark-dimension
+better-muffling
+spike-traps
+redstone-gates
+miniutilities
+get-in-the-bucket-mod
 
-foamfix-0.7.5.jar
 
-Forgelin-1.5.1.jar
+flatcoloredblocks - Replaced with modern-flat-colored-blocks
 
-FTBLib-1.1x-3.6.5.jar
+foamfix - Replaced with ferritecore
 
-FTBUtilities-1.1x-3.6.5.jar
+Forgelin - No replacement (library)
 
-FullscreenWindowed-1.10.2-1.5.1.jar
+FTBLib - No replacement (library)
 
-Funnels-1.10.2-1.1.2.jar
+FTBUtilities - Replaced with ftb-backups-forge
 
-Grue-1.9.4-1.3.5.jar
+FullscreenWindowed - Replaced with borderless
 
-Guide-API-1.10.2-2.0.3-46.jar
+Funnels - No replacement
 
-Gyth-1.10.2-2.0.0.27.jar
+Grue - No replacement
 
-hatchery-1.10.2-0.3.22.jar
+Guide-API - Replaced with guidebook
 
-Headcrumbs-2.0.3.jar
+Gyth - Replaced with portable-tanks
 
-hopperducts-mc1.9.4-1.4.8.1.jar
+hatchery - Replaced with morechickens
 
-hydrogel-0.9.jar
+Headcrumbs - Replaced with just-mob-heads
 
-InGameInfoXML-1.10.2-2.8.1.89-universal.jar
+hopperducts - Replaced with ducts
 
-IronBackpacks-1.10.2-2.2.33.jar
+hydrogel - Replaced with ignition-hydrogel
 
-ItsBecauseUHasNoGoodSpawn-1.0.5.jar
+InGameInfoXML - Replaced with betterf3
+ 
+IronBackpacks - Replaced with improvedbackpacks
 
-itsrainingfood-1.10.2-0.1.0.jar
+ItsBecauseUHasNoGoodSpawn - Replaced with topography
 
-literalascension-1.10.2-1.0.2.2.jar
+itsrainingfood - No replacement
 
-llibrary-1.7.7-1.10.2.jar
+literalascension - Replaced with better-ladders
 
-LootBags-1.10.2-2.5.0.jar
+llibrary - No replacement (library)
 
-LunatriusCore-1.10.2-1.1.2.38-universal.jar
+LootBags - Replaced with treasure-bags
 
-MCMultiPart-1.4.0-universal.jar
+LunatriusCore - No replacement (library)
 
-Mercurius-1.10.2-1.0.6.jar
+MCMultiPart - No replacement (library)
 
-missing_pieces-1.10.2-4.3.0.jar
+Mercurius - No replacement (tracker)
 
-MoarSigns-1.10.2-4.2.3.9.jar
+missing_pieces - No replacement
 
-ModTweaker2-2.0.13.jar
+MoarSigns - No replacement (currently at 1.12)
 
-MoreChickens-1.10.2-1.1.6.jar
+ModTweaker2 - Replaced with crafttweaker
 
-MoreShearables1.2.1-1.10.2.jar
+MoreChickens - Replaced with morechickens (yes, not a typo)
 
-moreshears-1.10.2-1.0.5-release.jar
+MoreShearables - Replaced with shear-a-cow
 
-mpbasic-1.10.2-1.1.5.jar
+moreshears - Replaced with bettershears2
 
-mputils-1.10.2-1.2.9.jar
+mpbasic - No replacement (Github changes)
 
-MTLib-1.0.3.jar
+mputils - No replacement
 
-natura-1.10.2-4.1.0.80.jar
+MTLib - No replacement (library)
 
-NotEnoughItems-1.10.2-2.1.3.220-universal.jar
+natura - No replacement (Worldgen addons but there is no world?)
 
-OpenComputers-MC1.10.2-1.7.5.245.jar
+NotEnoughItems - Replaced with jei
 
-Pam's HarvestCraft 1.9.4-1.10.2h.jar
+OpenComputers - Replaced with cc-tweaked and tis-3d
 
-RandomThings-MC1.10.2-3.7.7.1.jar
+Pam's HarvestCraft - Replaced with
 
-RebornCore-1.10.2-2.13.6.142-universal.jar
+pams-harvestcraft-2-food-core
+pams-harvestcraft-2-crops
+pams-harvestcraft-2-trees
+pams-harvestcraft-2-food-extended
 
-RebornStorage-1.10.2-1.0.3.30.jar
 
-redstonepaste-mc1.9.4-1.7.4.jar
+RandomThings - No replacement (currently at 1.14)
 
-ResourceLoader-MC1.9.4-1.5.1.jar
+RebornCore - No relpacement (fabric only)
+
+RebornStorage - No replacement (removing refined storage)
+
+redstonepaste - Replaced with more-red-computercraft-integration and more-red
+
+ResourceLoader - No replacement
 
 roots-0.208.jar
 
-scanner-1.5.2.jar
+scanner - No replacement
 
-ShadowMC-1.10.2-3.6.1.jar
+ShadowMC - No replacement (library)
 
-SimpleAchievements-MC1.9.4-1.2.2-28.jar
+SimpleAchievements - No replacement
 
-simplebarrels-1.26e.jar
+simplebarrels - Replaced with metal-barrels
 
-simplelabels-1-10.2-0.0.3.jar
+simplelabels - No replacement
 
-Snad-1.10.2-1.6.09.20a.jar
+Snad - Replaced with forge-snad
 
-SonarCore-1.10.2-3.3.0.jar
+SonarCore - No replacement (library)
 
-StevesCarts-1.10.2-2.2.0.86.jar
+StevesCarts - Replaced with creeperhost-presents-steves-carts
 
-SuperCircuitMaker-1.0.4.jar
+SuperCircuitMaker - No replacement (skipped 1.16)
 
-The Beneath-1.10.2-1.2.0.jar
+The Beneath - No replacement (stuck at 1.12)
 
-TinkerToolLeveling-1.10.2-1.0.1.jar
+TinkerToolLeveling - No replacement (none needed?)
 
-tinyprogressions-1.10.2-1.1.0.jar
+tinyprogressions - No replacement (stuck at 1.15 with source for 1.16)
 
-TS2K16-1.0.3.jar
+TS2K16 - Replaced with twerkitmeal
 
-Twitchcrumbs_1.10.2-2.0.4.jar
+Twitchcrumbs - No replacement (purely visual)
 
-UniDict-1.10.2-2.9b.jar
+UniDict - Replaced with emendatus-enigmatica
 
-voidcup-1.10.2-0.0.1.jar
+voidcup - Replaced with void-bucket
 
-WanionLib-1.10.2-1.3.jar
+WanionLib - No replacement (library)
 
-witherCrumbs-1.10.2-0.9.jar
+witherCrumbs - No replacement (base mod replaced)
 
-xprings-1.10-1.3.0.jar
+xprings - Replaced with clumps
 
-YUNoMakeGoodMap-1.10.2-6.1.0.26.jar
+YUNoMakeGoodMap - Replaced with topography

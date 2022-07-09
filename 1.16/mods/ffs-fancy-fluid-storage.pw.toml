@@ -1,0 +1,13 @@
+name = "FFS - Fancy Fluid Storage"
+filename = "Fancy Fluid Storage-1.16.4-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4f076f6027121e83c5bc315307a5232c1b85617"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3161382
+project-id = 232683

@@ -1,0 +1,13 @@
+name = "Mini Utilities"
+filename = "miniutilities-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4530470e835ac01293740d0b99c4068d08b84994"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821122
+project-id = 460341
